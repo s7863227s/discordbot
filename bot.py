@@ -25,4 +25,4 @@ async def on_message(message):
       else:
         await message.channel.send(tmp[1])
 
-client.run('MTAyNjQ2NzMwNDQ3NDY4MTQxNA.G0lBSs.gcwCptnycGK3J9CowKaRkV1iOG26JjWVqKXhY4') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
+client.run('MTAyNjQ2NzMwNDQ3NDY4MTQxNA.GbRJfT.W_DCfdEqdw0bpNIDCcQpXJk3MeqrnNr0CjfLdE') #TOKEN 在剛剛 Discord Developer 那邊「BOT」頁面裡面
